@@ -10,40 +10,15 @@
 <body>
     <nav>
         <ul class="menu">
-            <li class="menu"><a href="#about">About</a></li>
+            <li class="menu"><a href="#about">about</a></li>
+            氏名：田中翔真　
+            所属：武蔵野大学データサイエンス学科 
+            趣味：
+            目標：
             <li class="menu"><a href="#skill">Skill</a></li>
             <li class="menu"><a href="#works">Works</a></li>
             <li class="menu"><a href="#contact">Contact</a></li>
         </ul>
     </nav>
 
-    <h3 id="about">About</h3>
-    <ul>
-        <li>Ryota Nakamura</li>
-        <li>Faculty of Data Science, Musashino University</li>
-        <li>趣味：</li>
-        <li>目標：</li>
-    </ul>
-
-    <h3 id="skill">Skill</h3>
-    <ul>
-        <li>スキル1</li>
-        <li>スキル2</li>
-        <li>スキル3</li>
-        <li>スキル4</li>
-        <li>スキル5</li>
-    </ul>
-    
-    <h3 id="works">Works</h3>
-    <ul>
-        <li>次回課題</li>
-    </ul>
-
-    <h3 id="contact">Contact</h3>
-    <ul>
-        <li>次回課題</li>
-    </ul>
-
-    <footer>©︎2022 Ryota Nakamura</footer>
-</body>
 </html>
