@@ -11,9 +11,9 @@
     <nav>
         <ul class="menu">
             <li class="menu"><a href="#about">about</a></li>
-            氏名：田中翔真　
+            氏名：田中翔真 
             所属：武蔵野大学データサイエンス学科 
-            趣味：
+            趣味：アニメ
             目標：
             <li class="menu"><a href="#skill">Skill</a></li>
             <li class="menu"><a href="#works">Works</a></li>
